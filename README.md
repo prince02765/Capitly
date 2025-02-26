@@ -1,6 +1,17 @@
-# capitly
+# Capitly
 
-A new Flutter project.
+Grow Your Capital, Effortlessly
+
+## Features
+
+- Expense Categorization and Insights
+- Budget Tracking with Alerts
+- Multi-Currency Support
+- Visual Savings Goals
+- Push Notifications for Goal Milestones
+- Biometric Authentication
+- Two-Factor Authentication (2FA)
+
 
 ## Getting Started
 
